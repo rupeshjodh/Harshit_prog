@@ -1,0 +1,4 @@
+Harshit,50
+mohit,100
+Amol,150
+rakesh,200
