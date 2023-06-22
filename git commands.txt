@@ -1,4 +1,4 @@
- 292  ls - hello brother
+ 292  ls 
   293  git clone https://github.com/rupeshjodh/Harshit_prog.git
   294  git clone https://github.com/rupeshjodh/Harshit_prog.git
   295  git status
