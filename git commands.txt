@@ -1,0 +1,47 @@
+ 292  ls
+  293  git clone https://github.com/rupeshjodh/Harshit_prog.git
+  294  git clone https://github.com/rupeshjodh/Harshit_prog.git
+  295  git status
+  296  git digg
+  297  clear
+  298  git diff
+  299  diff --git a/Harshit_prog b/Harshit_prog
+  300  git diff
+  301  clear
+  302  ls
+  303  cd Harshit_prog/
+  304  git status
+  305  git diff
+  306  git diff
+  307  clear
+  308  git status
+  309  git diff
+  310  git add .
+  311  git status
+  312  git stash
+  313  git status
+  314  clear
+  315  git diff
+  316  git branch
+  317  git stash pop
+  318  git diff
+  319  clear
+  320  git status
+  321  git restore  gaurav_file/a2.py
+  322  git status
+  323  git status
+  324  git diff
+  325  clear
+  326  git branch
+  327  git branch code_change
+  328  git branch
+  329  git checkout code_change
+  330  git branch
+  331  git status
+  332  git add .
+  333  git commit -m "Added # to the code"
+  334  git log
+  335  clear
+  336  git push
+  337   git push --set-upstream origin code_change
+  338  history
